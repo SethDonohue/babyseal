@@ -278,6 +278,7 @@ input:focus {
 
 #aboutUsSection p {
   margin-bottom: 30px;
+  max-width: 680px;
 }
 
 #aboutUsSection img {
